@@ -1,3 +1,4 @@
+Execicio 1:
 #include <stdio.h>
 
 void linhas_com_exclamacoes(int n) {
@@ -19,3 +20,5 @@ int main() {
 
     return 0;
 }
+
+Execicio 2:
